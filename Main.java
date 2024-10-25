@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 abstract  class Task{
@@ -131,6 +130,6 @@ public class Main{
     System.out.println("TASK DETAILS : WORK");
 
     worktask.displayTaskInfo();
-        
+ 
     }
 }
